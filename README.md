@@ -19,7 +19,7 @@ Una aplicación web que utiliza inteligencia artificial para generar presupuesto
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/nacho.git
+git clone https://github.com/Ignacio-nube/reparacion-celular.git
 cd nacho
 ```
 
@@ -112,4 +112,4 @@ Este proyecto está bajo la Licencia ISC.
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [Ignacio-nube](https://github.com/Ignacio-nube/reparacion-celular)
